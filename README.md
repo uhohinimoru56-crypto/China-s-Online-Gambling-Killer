@@ -1,20 +1,20 @@
 # China-s-Online-Gambling-Killer
 Security research &amp; reverse engineering team | Hiring experienced researchers
-# Security Research Team（安全研究团队）
+# Security Research Team
 
-Private security research group | Selective hiring（私有安全研究团队｜选择性招聘）
+Private security research group | Selective hiring
 
 ---
 
-## About（关于我们）
+## About
 We are a small, highly focused security research team working on real-world systems.
-（我们是一个专注于真实系统的安全研究团队）
+
 
 Our work involves analyzing applications, infrastructures, and proprietary systems.
-（我们的工作包括分析应用程序、基础设施以及闭源系统）
+
 
 Due to the nature of our work, most project details remain confidential.
-（由于工作性质，大部分项目细节保持保密）
+
 
 ---
 
